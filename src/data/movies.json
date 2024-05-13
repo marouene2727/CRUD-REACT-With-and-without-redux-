@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "ahmed",
+      "year": "ahmed",
+      "img": "",
+      "genre": "ahmed",
+      "description": "no ahmed"
+    },
+    {
+      "id": "1",
+      "title": "marwen",
+      "year": "marwen",
+      "img": "",
+      "genre": "marwen",
+      "description": "marwen"
+    },
+    {
+      "id": "1",
+      "title": "ahmed",
+      "year": "ahmed",
+      "img": "",
+      "genre": "ahmed",
+      "description": "dsk,dlsk,dslk,dslk,s,dklsflksd"
+    }
+  ]
+}
